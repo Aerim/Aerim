@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+###Contact Me
+
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjsdofla7882@gmail.com)](mailto:wjsdofla7882@gmail.com)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aerim&layout=compact)](https://github.com/Aerim/github-readme-stats)
 
 
