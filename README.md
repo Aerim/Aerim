@@ -1,13 +1,13 @@
-<div align=center>
-### Aerim's Github 👋
 
+	
+<center> 👋 ### Aerim's Github 👋 </center>
+
+<div align=center>
 🔭 I studied software science at Ajou University. 
 </div>
 
 <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%Aerim)](https://hits.seeyoufarm.com) 
-	
+		
 <!--
 **Aerim/Aerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 -->
 
 
-### 💬 Contact Me
+### 💬 Contact Me 💬
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjsdofla7882@gmail.com)](mailto:wjsdofla7882@gmail.com)
 
-### ✍ Tech Stack
+### ✍ Tech Stack ✍
 Techs that I've used at least once
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -49,5 +49,7 @@ Techs that I've used at least once
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aerim)](https://github.com/Aerim/github-readme-stats)
+	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%Aerim)](https://hits.seeyoufarm.com) 
 	
 </div>
