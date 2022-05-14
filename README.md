@@ -1,8 +1,8 @@
 
+	<div align=center>
 	
-<center> 👋 ### Aerim's Github 👋 </center>
-
-<div align=center>
+### 👋 Aerim's Github 👋
+	
 🔭 I studied software science at Ajou University. 
 </div>
 
