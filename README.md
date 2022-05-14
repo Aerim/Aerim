@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-### 💬 Contact Me 💬
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjsdofla7882@gmail.com)](mailto:wjsdofla7882@gmail.com)
-
 ### ✍ Tech Stack ✍
 Techs that I've used at least once
 
@@ -46,6 +42,9 @@ Techs that I've used at least once
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aerim&layout=compact)](https://github.com/Aerim/github-readme-stats) -->
+
+### 💬 Contact Me 💬
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjsdofla7882@gmail.com)](mailto:wjsdofla7882@gmail.com)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aerim)](https://github.com/Aerim/github-readme-stats)
