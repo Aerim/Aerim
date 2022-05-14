@@ -44,7 +44,7 @@ Techs that I've used at least once
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aerim&layout=compact)](https://github.com/Aerim/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aerim&layout=compact)](https://github.com/Aerim/github-readme-stats) -->
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aerim)](https://github.com/Aerim/github-readme-stats)
